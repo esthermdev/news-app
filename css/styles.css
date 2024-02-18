@@ -1,0 +1,11 @@
+body {
+    background-color: whitesmoke;
+}
+
+.container-fluid {
+    padding: 20px 50px;
+}
+
+.head-container {
+    margin: 50px 50px 0px;
+}
